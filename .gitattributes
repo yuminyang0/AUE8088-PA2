@@ -1,0 +1,4 @@
+# this drop notebooks from GitHub language stats
+*.ipynb linguist-vendored
+*.tar.gz filter=lfs diff=lfs merge=lfs -text
+kaist-rgbt-aue8088.tar.gz filter=lfs diff=lfs merge=lfs -text
